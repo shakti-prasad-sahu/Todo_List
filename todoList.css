@@ -1,0 +1,77 @@
+
+ .todostyle{
+  max-width: 600px;
+  height: 50px;
+  border: 3px solid black;
+  background-color: black;
+  border-radius: 5px;
+  color: aliceblue;
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: 600;
+  position: relative;
+  top: 20px;
+  
+  margin-top: 10px;
+  
+  
+}
+.parastyle{
+  position: relative;
+  bottom: 20px;
+  padding: 0px 10px;
+}
+#main-Div{
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  max-width: 1000px;
+  position: sticky;
+
+}
+
+.input{
+  
+  height: 62px;
+  width: 500px;
+  text-align: center;
+  box-shadow: 3px 5px 10px yellow inset;
+ 
+  border: 3px solid blue;
+  color: black;
+  font-size: 30px;
+  
+}
+.submitBotton{
+  box-sizing: border-box;
+  text-align: center;
+  box-shadow: 3px 5px 10px yellow inset ;
+  border: 3px solid blue;
+  padding: 20px 15px;
+  background-color: tomato;
+  font-size: 20px;
+  font-family: serif;
+  font-weight: bold;
+}
+
+i{
+  position: relative;
+  bottom: 90px;
+  left:330px;
+  font-size: 20px;
+  padding: 10px;
+}
+.updateBox{
+  position: relative;
+  bottom : 90px;
+  left:320px
+  
+}
+
+
+
+
+
+
+
+ 
